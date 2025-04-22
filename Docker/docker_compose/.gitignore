@@ -1,0 +1,19 @@
+# Byte‑compiled Python files
+__pycache__/
+*.py[cod]
+
+# Environment variable file
+.env
+
+# Host‑side data volumes
+appdata/
+
+# Optional Python logs
+python_app/*.log
+
+# Docker Swarm / compose overrides (if you ever use them)
+docker-compose.override.yml
+
+# Editor directories and files
+.vscode/
+*.swp
